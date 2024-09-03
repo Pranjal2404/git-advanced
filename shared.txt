@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Keep calm and move on.
+=======
+Well done is better than well said.
+>>>>>>> feature-2
